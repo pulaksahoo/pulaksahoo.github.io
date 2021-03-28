@@ -1,6 +1,6 @@
-## Welcome to Pulak's Profile
+## Biography
 
-You can use the [editor on GitHub](https://github.com/pulaksahoo/pulaksahoo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I have pursued my Master’s degree from the Department of Information Technology, National Institute of Technology, Karnataka, Surathkal. I have my Master’s thesis on OpenHPC Configuration and Deployment interface. During the thesis, I was a an Graduate intern at Dell Technologies(R&D), Bengaluru. I was guided by Prasoon Sinha, Distinguished Engineer, Dell Technologies as my external guide and Dr Geethav, Assistant Professor, NITK Surathkal as my internal guide.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
