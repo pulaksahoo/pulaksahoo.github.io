@@ -1,6 +1,6 @@
 ## Biography
 
-I have pursued my Master’s degree from the **Department of Information Technology, National Institute of Technology, Karnataka, Surathkal**. I have my Master’s thesis on **OpenHPC Configuration and Deployment interface**. During the thesis, I was a Graduate intern at **Dell Technologies(R&D), Bengaluru**. I was guided by **Prasoon Sinha, Distinguished Engineer, Dell Technologies** as my external guide and **Dr Geetha V, Assistant Professor, NITK Surathkal** as my internal guide.
+I have pursued my Master’s degree from the [**Department of Information Technology, National Institute of Technology, Karnataka, Surathkal**](https://infotech.nitk.ac.in/). I have my Master’s thesis on **OpenHPC Configuration and Deployment interface**. During the thesis, I was a Graduate intern at **Dell Technologies(R&D), Bengaluru**. I was guided by **Prasoon Sinha, Distinguished Engineer, Dell Technologies** as my external guide and **Dr Geetha V, Assistant Professor, NITK Surathkal** as my internal guide.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
